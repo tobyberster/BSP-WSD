@@ -27,7 +27,7 @@ Requirements
 
 
 Data
------
+----
 
 - NLM - WSD data set:
   Included as lucene index in tarball format in the data folder. Untar and use.
