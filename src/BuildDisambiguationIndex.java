@@ -129,6 +129,9 @@ public class BuildDisambiguationIndex {
 	Flags.dimension = _intVectorDimension;
 	Flags.vectortype = VectorType.BINARY.toString().toLowerCase();
 	
+	//Set the stopword list
+	lUtils.loadStopWords("../data/stopword-list.txt");
+	
 	//Leroy inclusion
 	/*
 	_objExcludedSenses.add("adjustment");
