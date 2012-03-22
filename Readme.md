@@ -25,6 +25,8 @@ Requirements
 - Stopword List by Chris Buckley and Gerard Salton at Cornell University:
   Fore more information about this list, go to http://www.lextek.com/manuals/onix/stopwords2.html
 
+- Bobcat MW Utils by Manuel Wahle:
+  For more information about this package, go to https://github.com/mwahle/Hello-Wiki/lib
 
 Data
 ----
